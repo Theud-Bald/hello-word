@@ -1,2 +1,3 @@
 # hello-word
-Beginner project
+Test project
+
